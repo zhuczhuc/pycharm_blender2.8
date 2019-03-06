@@ -8,3 +8,5 @@ In the last step, you should set the path mappings to blender addon path.
 Or config the pycharm project to addon path. On my windows10 system, it's 
 C:\Users\zhuc\AppData\Roaming\Blender Foundation\Blender\2.80\scripts\addons.
 
+## Autocomplete
+auto-complete can reference [here](https://github.com/nutti/fake-bpy-module)
